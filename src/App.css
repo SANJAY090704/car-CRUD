@@ -1,0 +1,44 @@
+body
+{
+    font-family: Arial;
+    background-color: #f2f2f2;
+}
+
+ol
+{
+    background-color: black;
+    padding: 20px;
+}
+
+ol a
+{
+    color: white;
+    text-decoration: none;
+}
+
+ol li
+{
+    margin: 10px;
+    display: inline;
+    list-style: none;
+}
+
+.card
+{
+    border: 2px solid black;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    background-color: lightpink;
+}
+
+input
+{
+    width: 250px;
+    padding: 10px;
+}
+
+button
+{
+    padding: 10px;
+}
